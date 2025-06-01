@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\app jeu\\Projet3D_Leen\u0026Mariyam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE0BC16-6650-43E0-6D77-BC3916562BA8}|Assembly-CSharp.csproj|d:\\app jeu\\projet3d_leen\u0026mariyam\\assets\\scripts\\deplacementai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE0BC16-6650-43E0-6D77-BC3916562BA8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deplacementai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeplacementAI.cs",
+              "DocumentMoniker": "D:\\app jeu\\Projet3D_Leen\u0026Mariyam\\Assets\\Scripts\\DeplacementAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeplacementAI.cs",
+              "ToolTip": "D:\\app jeu\\Projet3D_Leen\u0026Mariyam\\Assets\\Scripts\\DeplacementAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeplacementAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:58:36.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBADE44A-103C-B6F1-60A4-ADB5350AE5F6}|Assembly-CSharp.csproj|C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\assets\\scripts\\controlejeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBADE44A-103C-B6F1-60A4-ADB5350AE5F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlejeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBADE44A-103C-B6F1-60A4-ADB5350AE5F6}|Assembly-CSharp.csproj|c:\\users\\mary\\documents\\app jeu \u0026 simulation\\3d game\\cowboy hero 3d\\assets\\scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBADE44A-103C-B6F1-60A4-ADB5350AE5F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBADE44A-103C-B6F1-60A4-ADB5350AE5F6}|Assembly-CSharp.csproj|c:\\users\\mary\\documents\\app jeu \u0026 simulation\\3d game\\cowboy hero 3d\\assets\\scripts\\losescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBADE44A-103C-B6F1-60A4-ADB5350AE5F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\losescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBADE44A-103C-B6F1-60A4-ADB5350AE5F6}|Assembly-CSharp.csproj|C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\assets\\scripts\\interactioncoffre2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBADE44A-103C-B6F1-60A4-ADB5350AE5F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactioncoffre2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoseScript.cs",
+              "DocumentMoniker": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\Assets\\Scripts\\LoseScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoseScript.cs",
+              "ToolTip": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\Assets\\Scripts\\LoseScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoseScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:56:12.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuScript.cs",
+              "DocumentMoniker": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\Assets\\Scripts\\MenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuScript.cs",
+              "ToolTip": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\Assets\\Scripts\\MenuScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:53:32.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControleJeu.cs",
+              "DocumentMoniker": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\Assets\\Scripts\\ControleJeu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControleJeu.cs",
+              "ToolTip": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\Assets\\Scripts\\ControleJeu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControleJeu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:53:16.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InteractionCoffre2.cs",
+              "DocumentMoniker": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\Assets\\Scripts\\InteractionCoffre2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionCoffre2.cs",
+              "ToolTip": "C:\\Users\\mary\\Documents\\app jeu \u0026 simulation\\3D GAME\\Cowboy Hero 3D\\Assets\\Scripts\\InteractionCoffre2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionCoffre2.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwE4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:03:29.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
